@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Twitter, Linkedin, Github } from "lucide-react";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -10,7 +11,15 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-xl font-bold text-gray-50 mb-4">Devall</h3>
+            <Link href="/" className="text-2xl font-bold text-gray-50">
+              <Image
+                src="/logo.png"
+                alt="Devall Logo"
+                width={40}
+                height={40}
+                className="inline-block mr-2"
+              />Devall
+            </Link>
             <p className="text-gray-300">
               La plantilla definitiva de Next.js para negocios modernos de
               desarrollo de software.

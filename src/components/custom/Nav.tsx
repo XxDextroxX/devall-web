@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
+import Image from "next/image";
 
 export default function Nav() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -20,7 +21,13 @@ export default function Nav() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-bold text-gray-50">
-              Devall
+              <Image
+                src="/logo.png"
+                alt="Devall Logo"
+                width={40}
+                height={40}
+                className="inline-block mr-2"
+              />Devall
             </Link>
           </div>
 

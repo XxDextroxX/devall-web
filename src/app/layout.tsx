@@ -17,14 +17,14 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Starter for Business - Handcrafted Boilerplate",
+  title: "Devall",
   description:
     "Handcrafted Next.js boilerplate for startups and agencies. Modern design, essential integrations, and everything you need to kickstart your next web project.",
   keywords:
     "Next.js, React, Startup, Business, Agency, SaaS, Boilerplate, Template",
   authors: [{ name: "Your Company" }],
   openGraph: {
-    title: "Next.js Starter for Business",
+    title: "Devall",
     description: "Handcrafted Next.js boilerplate for startups and agencies",
     type: "website",
   },

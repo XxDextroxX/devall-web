@@ -23,14 +23,14 @@ export default function Contact() {
                 <h3 className="font-semibold text-gray-50">
                   Correo Electrónico
                 </h3>
-                <p className="text-gray-300">support@devall.com</p>
+                <p className="text-gray-300">info@devallsas.com</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
               <Phone className="h-6 w-6 text-blue-400" />
               <div>
                 <h3 className="font-semibold text-gray-50">Teléfono</h3>
-                <p className="text-gray-300">+009 8754 3433 223</p>
+                <p className="text-gray-300">+593 96 335 2953</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
@@ -38,7 +38,7 @@ export default function Contact() {
               <div>
                 <h3 className="font-semibold text-gray-50">Ubicación</h3>
                 <p className="text-gray-300">
-                  76/A, Green valle, California USA.
+                  Manabí - Portoviejo.
                 </p>
               </div>
             </div>
