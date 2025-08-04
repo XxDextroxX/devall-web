@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Características",
+    "about": "Acerca de",
+    "team": "Equipo",
+    "portfolio": "Portafolio",
+    "pricing": "Precios",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Plantilla Next.js para tu Negocio de Desarrollo de Software",
+    "subtitle": "Plantilla Next.js creada para tu próxima <span>Startup, Negocio o Proyecto de Desarrollo de Software</span>. Incluye diseño moderno, integraciones avanzadas y todo lo necesario para acelerar tus proyectos web con tecnologías como Docker, NestJS, Rust, React, Vue, Flutter, Machine Learning y más."
+  },
+  "features": {
+    "title": "Integraciones Esenciales con Diseño Moderno",
+    "items": [
+      {
+        "title": "Diseñado para Desarrollo de Software",
+        "description": "Creado específicamente para aplicaciones modernas con arquitecturas escalables utilizando Docker, NestJS y Rust."
+      },
+      {
+        "title": "Diseño de Alta Calidad",
+        "description": "Sistema de diseño cuidadosamente elaborado con enfoque en la experiencia del usuario y estética moderna."
+      },
+      {
+        "title": "Componentes y Páginas UI",
+        "description": "Colección completa de componentes reutilizables y plantillas de páginas pre-construidas con React y Vue."
+      },
+      {
+        "title": "Integraciones Clave",
+        "description": "Integraciones pre-configuradas con Firebase, KrakenD, SQL y APIs para desarrollo rápido."
+      },
+      {
+        "title": "Totalmente Personalizable",
+        "description": "Componentes y layouts fácilmente adaptables para cumplir con los requisitos de tu marca."
+      },
+      {
+        "title": "Actualizaciones Constantes",
+        "description": "Actualizaciones continuas con nuevas funcionalidades, parches de seguridad y mejoras de rendimiento."
+      }
+    ]
+  },
+  "about": {
+    "title": "Conoce Más Sobre Devall",
+    "description": "Somos un equipo apasionado de desarrolladores y diseñadores dedicados a crear soluciones digitales excepcionales. Nuestra plantilla Next.js combina tecnologías de vanguardia como Machine Learning, Deep Learning, y Flutter con diseños innovadores para ayudar a las empresas a triunfar en el desarrollo de software.",
+    "integrations": {
+      "title": "Integraciones Pre-construidas",
+      "items": [
+        "Integración con bases de datos usando Firebase y PostgreSQL",
+        "Autenticación con NextAuth.js",
+        "Procesamiento de pagos con Stripe",
+        "Gestión de contenido con Sanity CMS",
+        "Servicios de correo y análisis"
+      ]
+    },
+    "advanced_features": {
+      "title": "Funcionalidades Avanzadas",
+      "items": [
+        "Renderizado del lado del servidor y generación estática",
+        "Rutas API y middleware",
+        "Optimización SEO y etiquetas meta",
+        "Monitoreo de rendimiento y análisis",
+        "Diseño responsivo y accesibilidad"
+      ]
+    }
+  },
+  "team": {
+    "title": "Conoce a Nuestro Equipo Creativo y Dedicado"
+  },
+  "portfolio": {
+    "title": "Galería, Previsualizaciones y Portafolio",
+    "project": "Proyecto"
+  },
+  "testimonials": {
+    "title": "Lo que Dicen Nuestros Clientes"
+  },
+  "trusted_brands": {
+    "title": "Confiado por Marcas Globales"
+  },
+  "pricing": {
+    "title": "Precios Asequibles con Planes Simples",
+    "contact_team": "Buscas una solución empresarial? <a href='#contact'>Contacta a nuestro equipo</a> para una cotización."
+  },
+  "blog": {
+    "title": "Últimas Noticias y Artículos de Nuestro Blog"
+  },
+  "contact": {
+    "title": "¿Necesitas Ayuda? ¡Contáctanos!",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "cta": {
+    "title": "¿Buscas una colaboración? ¡Comienza Hoy!",
+    "button": "Contáctanos"
+  },
+  "footer": {
+    "description": "La plantilla definitiva de Next.js para negocios modernos de desarrollo de software.",
+    "quick_links": "Enlaces Rápidos",
+    "resources": "Recursos",
+    "follow_us": "Síguenos"
+  }
+}
